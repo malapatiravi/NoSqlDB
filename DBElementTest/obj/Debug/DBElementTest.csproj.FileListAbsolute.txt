@@ -1,0 +1,14 @@
+C:\Users\James\Desktop\Project2Starter-9-23-2015\DBElementTest\bin\Debug\DBElementTest.exe.config
+C:\Users\James\Desktop\Project2Starter-9-23-2015\DBElementTest\bin\Debug\DBElementTest.exe
+C:\Users\James\Desktop\Project2Starter-9-23-2015\DBElementTest\bin\Debug\DBElementTest.pdb
+C:\Users\James\Desktop\Project2Starter-9-23-2015\DBElementTest\bin\Debug\DBElement.exe
+C:\Users\James\Desktop\Project2Starter-9-23-2015\DBElementTest\bin\Debug\DBExtensions.exe
+C:\Users\James\Desktop\Project2Starter-9-23-2015\DBElementTest\bin\Debug\UtilityExtensions.exe
+C:\Users\James\Desktop\Project2Starter-9-23-2015\DBElementTest\bin\Debug\DBEngine.exe
+C:\Users\James\Desktop\Project2Starter-9-23-2015\DBElementTest\bin\Debug\DBElement.pdb
+C:\Users\James\Desktop\Project2Starter-9-23-2015\DBElementTest\bin\Debug\DBExtensions.pdb
+C:\Users\James\Desktop\Project2Starter-9-23-2015\DBElementTest\bin\Debug\UtilityExtensions.pdb
+C:\Users\James\Desktop\Project2Starter-9-23-2015\DBElementTest\bin\Debug\DBEngine.pdb
+C:\Users\James\Desktop\Project2Starter-9-23-2015\DBElementTest\obj\Debug\DBElementTest.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\Project2Starter-9-23-2015\DBElementTest\obj\Debug\DBElementTest.exe
+C:\Users\James\Desktop\Project2Starter-9-23-2015\DBElementTest\obj\Debug\DBElementTest.pdb

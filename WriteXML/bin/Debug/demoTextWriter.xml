@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<test>
+  <child1 attrib1="value1">first body string</child1>
+  <child2>second body string</child2>
+  <child3 attrib2="hasChildren">
+    <grandChild1>gc body</grandChild1>
+    <grandChild2>gc body</grandChild2>
+  </child3>
+</test>

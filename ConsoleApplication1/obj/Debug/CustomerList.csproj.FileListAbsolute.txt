@@ -1,0 +1,6 @@
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\ConsoleApplication1\obj\Debug\CustomerList.csprojResolveAssemblyReference.cache
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

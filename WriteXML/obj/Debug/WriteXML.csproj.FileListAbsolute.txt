@@ -1,0 +1,6 @@
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\WriteXML\bin\Debug\WriteXML.exe.config
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\WriteXML\bin\Debug\WriteXML.exe
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\WriteXML\bin\Debug\WriteXML.pdb
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\WriteXML\obj\Debug\WriteXML.csprojResolveAssemblyReference.cache
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\WriteXML\obj\Debug\WriteXML.exe
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\WriteXML\obj\Debug\WriteXML.pdb

@@ -1,0 +1,6 @@
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\ReadXML\bin\Debug\ReadXML.exe.config
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\ReadXML\bin\Debug\ReadXML.exe
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\ReadXML\bin\Debug\ReadXML.pdb
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\ReadXML\obj\Debug\ReadXML.csprojResolveAssemblyReference.cache
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\ReadXML\obj\Debug\ReadXML.exe
+C:\Users\malap\Documents\MyBooks_Materials\SMA\New_project2\ReadXML\obj\Debug\ReadXML.pdb

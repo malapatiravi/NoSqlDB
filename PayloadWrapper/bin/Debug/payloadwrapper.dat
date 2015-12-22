@@ -1,0 +1,100 @@
+
+  Testing Payload Wrapper
+ =========================
+
+  showing List of strings:
+ --------------------------
+  one
+  two
+  three
+
+  Output from PayloadWrapper.ToString()
+ ---------------------------------------
+ one, two, three
+
+  output from PayloadWrapper.ToXml()
+ ------------------------------------
+<payload>
+  <item>one</item>
+  <item>two</item>
+  <item>three</item>
+</payload>
+
+  output from elem.showElement<string, ListOfStrings>()
+ -------------------------------------------------------
+  name: test element
+  desc: created to test PayloadWrapper
+  time: 9/24/2015 9:34:08 PM
+  payload:  alpha, beta, gamma, delta, epsilon
+
+  test cloning elem
+ ===================
+
+  output from elem.showElement<string, ListOfStrings>()
+ -------------------------------------------------------
+  name: test element
+  desc: created to test PayloadWrapper
+  time: 9/24/2015 9:34:08 PM
+  payload:  alpha, beta, gamma, delta, epsilon
+
+  output from cloned.showElement<string, ListOfStrings>()
+ ---------------------------------------------------------
+  name: test element
+  desc: created to test PayloadWrapper
+  time: 9/24/2015 9:34:08 PM
+  payload:  alpha, beta, gamma, delta, epsilon
+
+  testing for equality immediately after cloning
+ ------------------------------------------------
+  cloned.name vs. elem.name
+    objects have same state
+    different objects
+  cloned.descr vs. elem.descr
+    objects have same state
+    different objects
+  cloned.timeStamp vs. elem.timeStamp
+    DateTimes have same state
+    different objects
+  cloned.children vs. elem.children
+    Lists have same state
+    different objects
+  cloned.payload vs. elem.payload
+    Lists have same state
+    different objects
+
+  modifying clone's properties
+ ------------------------------
+
+  output from elem.showElement<string, ListOfStrings>()
+ -------------------------------------------------------
+  name: test element
+  desc: created to test PayloadWrapper
+  time: 9/24/2015 9:34:08 PM
+  payload:  alpha, beta, gamma, delta, epsilon
+
+  output from cloned.showElement<string, ListOfStrings>()
+ ---------------------------------------------------------
+  name: test element modified
+  desc: created to test PayloadWrapper modified
+  time: 9/24/2015 12:00:00 AM
+  Children: key11, key13
+  payload:  alpha, beta, gamma, delta, epsilon, zeta, eta
+
+  Testing equality after modifying clone's values
+ -------------------------------------------------
+  cloned.name vs. elem.name
+    objects do not have same state
+    different objects
+  cloned.descr vs. elem.descr
+    objects do not have same state
+    different objects
+  cloned.timeStamp vs. elem.timeStamp
+    DateTimes do not have same state
+    different objects
+  cloned.children vs. elem.children
+    Lists do not have same state
+    different objects
+  cloned.payload vs. elem.payload
+    Lists do not have same state
+    different objects
+
